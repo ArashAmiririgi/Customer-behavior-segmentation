@@ -55,7 +55,7 @@ The dataset is taken from Kaggle: [Customer Segmentation Data](https://www.kaggl
 
 ### 7. Cluster Profiling
 - Generated **summary statistics** per cluster.  
-- Built interactive bar charts with Plotly for comparison.  
+- Built interactive bar charts with Plotly for comparison (download the html interactive plot from the img folder).  
 
 ![Cluster Comparison](img/Kmeans_interactive_plot.jpg)
 
