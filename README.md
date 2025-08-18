@@ -38,7 +38,7 @@ The dataset is taken from Kaggle: [Customer Segmentation Data](https://www.kaggl
 - Used the **Elbow Method** to evaluate optimal number of clusters.  
 
 📊 *Placeholder for Elbow Method Plot*  
-`![Elbow Method](img/Elbow_plot.png)`
+`![Elbow Method](../img/Elbow_plot.png)`
 
 ### 5. Hierarchical Clustering
 - Applied **Ward’s method** linkage.  
