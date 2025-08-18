@@ -37,31 +37,28 @@ The dataset is taken from Kaggle: [Customer Segmentation Data](https://www.kaggl
 - Applied **K-Means (k=4)**.  
 - Used the **Elbow Method** to evaluate optimal number of clusters.  
 
-📊 *Placeholder for Elbow Method Plot*  
-`![Elbow Method](../img/Elbow_plot.png)`
+![Elbow Method](img/Elbow_plot.png)
 
 ### 5. Hierarchical Clustering
 - Applied **Ward’s method** linkage.  
 - Visualized with a **dendrogram**.  
 - Calculated silhouette scores to evaluate cluster quality.  
 
-🌳 *Placeholder for Dendrogram*  
-`![Hierarchical Dendrogram](img/Dendrogram.png)`
+![Hierarchical Dendrogram](img/Dendrogram.png)
 
 ### 6. Dimensionality Reduction & Visualization
 - Applied **t-SNE** for 2D visualization of clusters.  
 - Plotted both **K-Means** and **Hierarchical** clusters.  
 
-🎨 *Placeholder for t-SNE Plots*  
-`![t-SNE KMeans](img/K-Means Clusters visualized with t-SNE.png)`  
-`![t-SNE Hierarchical](img/Hierarchical Clusters visualized with t-SNE.png)`
+![t-SNE KMeans](img/K-Means-Clusters-visualized-with-t-SNE.png)  
+![t-SNE Hierarchical](img/Hierarchical Clusters visualized with t-SNE.png)
 
 ### 7. Cluster Profiling
 - Generated **summary statistics** per cluster.  
 - Built interactive bar charts with Plotly for comparison.  
 
 📊 *Placeholder for Interactive Cluster Comparison*  
-`![Cluster Comparison](img/Kmeans_interactive_plot.png)`
+![Cluster Comparison](img/Kmeans_interactive_plot.png)
 
 ---
 
