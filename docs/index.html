@@ -1,11 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>My Image Page</title>
+    <title>My Interactive Image Page</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 20px;
+      }
+      iframe {
+        border: 2px solid #ccc;
+        border-radius: 8px;
+      }
+    </style>
   </head>
   <body>
     <h1>Hello, here’s my interactive plot!</h1>
-    <iframe src="Kmeans_interactive_plot.html" width="800" height="600"></iframe>
+    <p>Scroll or zoom inside the interactive plot below:</p>
+    <iframe 
+      src="Kmeans_interactive_plot.html" 
+      width="800" 
+      height="600"
+      title="Kmeans Interactive Plot">
+    </iframe>
   </body>
 </html>
