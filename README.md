@@ -50,14 +50,13 @@ The dataset is taken from Kaggle: [Customer Segmentation Data](https://www.kaggl
 - Applied **t-SNE** for 2D visualization of clusters.  
 - Plotted both **K-Means** and **Hierarchical** clusters.  
 
-![t-SNE KMeans](img/K-Means-Clusters-visualized-with-t-SNE.png)  
+![t-SNE KMeans](img/K-Means Clusters visualized with t-SNE.png)  
 ![t-SNE Hierarchical](img/Hierarchical Clusters visualized with t-SNE.png)
 
 ### 7. Cluster Profiling
 - Generated **summary statistics** per cluster.  
 - Built interactive bar charts with Plotly for comparison.  
 
-📊 *Placeholder for Interactive Cluster Comparison*  
 ![Cluster Comparison](img/Kmeans_interactive_plot.png)
 
 ---
