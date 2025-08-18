@@ -57,7 +57,8 @@ The dataset is taken from Kaggle: [Customer Segmentation Data](https://www.kaggl
 - Generated **summary statistics** per cluster.  
 - Built interactive bar charts with Plotly for comparison (download the html interactive plot from the img folder).  
 
-![Cluster Comparison](img/Kmeans_interactive_plot.jpg)
+![Cluster Comparison](https://arashamiririgi.github.io/Customer-behavior-segmentation/)
+[Cluster Comparison](https://arashamiririgi.github.io/Customer-behavior-segmentation/)
 
 ---
 
