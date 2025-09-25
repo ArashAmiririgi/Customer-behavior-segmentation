@@ -104,7 +104,7 @@ K-Means produced **actionable clusters** differentiated by **spend level, produc
 ---
 
 ### **Hierarchical Clustering Observation**
-- One cluster was entirely defined by the **Complain** variable.  
+- One cluster was entirely defined by the **Complaint** variable.  
 - Overfitted rare behavior (1% of customers).  
 - Less useful for actionable marketing compared to K-Means.  
 
